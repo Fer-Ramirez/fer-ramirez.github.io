@@ -4,23 +4,25 @@ theme: jekyll-theme-cayman
 title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
 
-# María Fernanda Ramírez, PhD
-## BI & Operations Analyst | Strategic Data Storyteller
+## BI & Operations Analytics | Revenue-Focused Decision Making
 
-> **"Bridging the gap between complex research and actionable business intelligence."**
+> **"Driving revenue-focused decisions through customer analytics, operational insights, and predictive modeling."**
 
 ---
 
-## 📂 Featured Case Studies
+## Featured Case Studies
 
 ### 📊 Strategic Retention Audit: Revenue Risk & Operational Levers
-*Reducing attrition through data-driven operational intelligence.*
 
-* **Impact:** Isolated **$162M revenue exposure** and identified support friction as the #1 churn driver.
-* **Strategy:** Developed a 3-pillar roadmap: Support RCA, Contract Migration, and Predictive Alerting.
-* **Stack:** `Python` `SQL` `Random Forest` `Revenue Analytics`
+**Identified $162M in revenue exposure and uncovered operational friction as the primary churn driver.**
 
-[**View Project Documentation**](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [**Download Executive Deck**](LINK_TO_YOUR_LINKEDIN_PDF)
+- **Business Impact:** High-value customers concentrated in unstable contract segments  
+- **Key Insight:** Support interactions are the strongest predictor of churn (Feature Importance: 0.47)  
+- **Action Plan:** Support RCA, contract migration strategy, predictive churn alerts  
+
+**Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics  
+
+[View Project](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [View Slides](TU_LINK)
 
 ---
 
@@ -33,5 +35,9 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 
 ---
 
-## 🛠 Technical Toolkit
-**SQL** (Advanced Aggregations) | **Python** (Predictive Modeling) | **Power BI** | **Pharma Operations**
+## Technical Toolkit
+
+- **Data & Modeling:** Python (Pandas, Scikit-learn), SQL (DuckDB, PostgreSQL)  
+- **Analytics:** Revenue Analysis, Churn Modeling, KPI Design  
+- **Visualization:** Power BI, Tableau, Seaborn  
+- **Domain:** Pharma Operations, Customer Analytics  
