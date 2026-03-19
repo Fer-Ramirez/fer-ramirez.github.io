@@ -3,7 +3,7 @@ layout: default
 theme: jekyll-theme-cayman
 title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/Fer-Ramirez) | ✉️ fer.ramirezm4@gmail.com
+**Contact:** <a href="https://www.linkedin.com/in/TU_PERFIL">LinkedIn</a> | <a href="https://github.com/Fer-Ramirez">GitHub</a> | fer.ramirezm4@gmail.com
 
 Analytical leader with a PhD in Biomedical Sciences and experience as an Account Director in the Pharma sector. I specialize in transforming operational data into revenue-driving strategies.
 
@@ -56,6 +56,4 @@ Support interactions are the strongest predictor of churn, driving nearly 50% of
 
 ## 📫 Open to Opportunities
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
-- [GitHub](https://github.com/Fer-Ramirez)  
-- ✉️ fer.ramirezm4@gmail.com
+<a href="https://www.linkedin.com/in/TU_PERFIL">LinkedIn</a> | <a href="https://github.com/Fer-Ramirez">GitHub</a> | fer.ramirezm4@gmail.com
