@@ -4,14 +4,23 @@ theme: jekyll-theme-cayman
 title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
 
-## BI & Operations Analytics | Revenue-Focused Decision Making
+# BI & Operations Analytics | Revenue-Focused Decision Making
 
-> **"Driving revenue-focused decisions through customer analytics, operational insights, and predictive modeling."**
+Analytical leader with a PhD in Biomedical Sciences and experience as an Account Director in the Pharma sector. I specialize in transforming operational data into revenue-driving strategies.
+
+---
+
+## Driving Revenue & Retention Through Data
+
+**Identified $162M in revenue risk and uncovered operational drivers of customer churn using predictive analytics.**
+
+Translating complex data into actionable insights across customer behavior, operations, and revenue performance.
 
 ---
 
 ## Featured Case Studies
 
+**Flagship Project**
 ### 📊 Strategic Retention Audit: Revenue Risk & Operational Levers
 
 **Identified $162M in revenue exposure and uncovered operational friction as the primary churn driver.**
@@ -22,7 +31,7 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 
 **Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics  
 
-[View Project](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [View Slides](TU_LINK)
+[Explore Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Executive Summary](TU_LINK)
 
 ---
 
