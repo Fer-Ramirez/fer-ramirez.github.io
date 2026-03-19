@@ -11,13 +11,13 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 
 ## Driving Revenue & Retention Through Data
 
-**Identified $162M in revenue risk and uncovered operational drivers of customer churn using predictive analytics.**
+**Quantified $162M in revenue risk and uncovered operational drivers of customer churn using predictive analytics.**
 
 ---
 
 ## Featured Case Studies
 
-**Flagship Project**
+**Key Project**
 ### 📊 Strategic Retention Audit: Revenue Risk & Operational Levers
 
 **Identified $162M in revenue exposure and uncovered operational friction as the primary churn driver.**
@@ -30,6 +30,9 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 
 [Explore Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
 
+![Feature Importance — Customer Churn](images/feature_importance.png)
+<img src="images/feature_importance.png" alt="Feature Importance — Customer Churn" width="700"> 
+*Support interactions are the strongest predictor of churn, driving nearly 50% of model importance.* 
 ---
 
 ### 💊 [PREVIEW] Pharma Supply Chain: Lead-Time Optimization
@@ -37,8 +40,8 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 
 * **Context:** Analyzing delivery delays in life-saving medication to prevent spoilage and stock-outs.
 * **Action:** Implementing **SQL Window Functions** to audit vendor performance across international routes.
-* **Status:** *In Development - Analysis of SCMS Global Health Dataset.*
-
+* **Status:** Phase 1: Diagnostic SQL Audit in progress.
+  
 ---
 
 ## Technical Toolkit
