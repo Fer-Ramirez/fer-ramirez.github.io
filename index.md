@@ -62,12 +62,11 @@ In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption
 <div style="text-align:center; margin-top:20px;">
   <strong>Data & Modeling</strong>
 </div>
-
 <div style="text-align:center; margin-top:8px;">
-  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">PYTHON</span>
-  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">PANDAS</span>
-  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">SCIKIT-LEARN</span>
-  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">SQL</span>
+  <span style="background:#2d6a4f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">PYTHON</span>
+  <span style="background:#2d6a4f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">PANDAS</span>
+  <span style="background:#2d6a4f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">SCIKIT-LEARN</span>
+  <span style="background:#2d6a4f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">SQL</span>
 </div>
 
 <div style="text-align:center; margin-top:20px;">
@@ -75,9 +74,9 @@ In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption
 </div>
 
 <div style="text-align:center; margin-top:8px;">
-  <span style="background:#40916c; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">REVENUE ANALYSIS</span>
-  <span style="background:#40916c; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">CHURN MODELING</span>
-  <span style="background:#40916c; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">KPI DESIGN</span>
+  <span style="background:#40916c; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">REVENUE ANALYSIS</span>
+  <span style="background:#40916c; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">CHURN MODELING</span>
+  <span style="background:#40916c; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">KPI DESIGN</span>
 </div>
 
 <div style="text-align:center; margin-top:20px;">
@@ -85,9 +84,9 @@ In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption
 </div>
 
 <div style="text-align:center; margin-top:8px;">
-  <span style="background:#52796f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">POWER BI</span>
-  <span style="background:#52796f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">TABLEAU</span>
-  <span style="background:#52796f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">SEABORN</span>
+  <span style="background:#52796f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">POWER BI</span>
+  <span style="background:#52796f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">TABLEAU</span>
+  <span style="background:#52796f; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">SEABORN</span>
 </div>
 
 <div style="text-align:center; margin-top:20px;">
@@ -95,8 +94,8 @@ In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption
 </div>
 
 <div style="text-align:center; margin-top:8px;">
-  <span style="background:#344e41; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">PHARMA OPERATIONS</span>
-  <span style="background:#344e41; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">CUSTOMER ANALYTICS</span>
+  <span style="background:#344e41; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">PHARMA OPERATIONS</span>
+  <span style="background:#344e41; color:white; padding:8px 14px; margin:6px; display:inline-block; font-size:14px;">CUSTOMER ANALYTICS</span>
 </div>
 
 ---
