@@ -36,12 +36,24 @@ Support interactions are the strongest predictor of churn, driving nearly 50% of
 </p>
 ---
 
-### 💊 [PREVIEW] Pharma Supply Chain: Lead-Time Optimization
-*Optimizing the 'Cold Chain' for global health logistics.*
+### 💊 [IN DEVELOPMENT] Pharma Supply Chain: Strategic Operational Audit
+*Optimizing the 'Clinical-Commercial Nexus' in Global Health Logistics.*
 
-* **Context:** Analyzing delivery delays in life-saving medication to prevent spoilage and stock-outs.
-* **Action:** Implementing **SQL Window Functions** to audit vendor performance across international routes.
-* **Status:** Phase 1: Diagnostic SQL Audit in progress.
+**The Business Case:**
+In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption" risk. This leads to **permanent market share loss** as patients migrate to competitor second-line therapies, alongside direct losses from **Inventory Obsolescence**.
+
+**Strategic Research Questions:**
+1. **Operational:** Which vendors are "Chronic Delayers" exceeding the 10% safety buffer?
+2. **Financial:** What is the **Inventory Value-at-Risk** due to shelf-life loss during transit?
+3. **Clinical:** What is the projected revenue loss if a delay triggers a 5% patient switch to second-line therapy?
+
+**The Analysis Roadmap:**
+* **Advanced SQL Audit:** Ranking carrier reliability and "Cost-of-Delay" logic.
+* **Inventory Obsolescence:** Quantifying "Expiry Velocity" and shelf-life degradation.
+* **Simulation:** "What-If" engine for 2026 freight inflation and ROI of route optimization.
+* **PhD Edge:** Modeling the Clinical-Commercial impact of Treatment Interruption.
+
+*Project Status: Phase 1 (Data Schema & SQL Diagnostic) in progress.*
   
 ---
 
