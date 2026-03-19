@@ -7,13 +7,11 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 
 ## About Me
 
-I am a BI & Operations Analyst with a PhD in Biomedical Sciences and experience in the pharmaceutical industry.
-
-I specialize in translating complex operational and customer data into actionable business insights. In my recent work, I identified over $162M in revenue exposure by uncovering key drivers of customer churn using predictive analytics.
-
-My approach combines strong technical foundations in SQL, Python, and machine learning with a business-focused mindset centered on revenue, efficiency, and decision-making. While my background is in Pharma, my work is applicable to any data-driven environment where understanding customer behavior and operational performance is critical.
-
-I am seeking opportunities to contribute to BI and analytics teams where data can directly inform strategy and business impact.
+> **BI & Operations Analyst** with a PhD in Biomedical Sciences and experience in the pharmaceutical industry, including client-facing and cross-functional roles.
+> 
+> My research background trained me to approach complex problems with **structured thinking** and to translate data into **clear, evidence-based narratives**.
+> 
+> In industry, I’ve worked closely with stakeholders across functions, developing the ability to communicate insights, align teams, and connect data analysis with business decisions. I apply this foundation with **SQL, Python, and Predictive Analytics** to drive revenue-focused and operational insights.
 
 ---
 
@@ -30,9 +28,9 @@ I am seeking opportunities to contribute to BI and analytics teams where data ca
 
 **Identified $162M in revenue exposure and uncovered operational friction as the primary churn driver.**
 
-- **Business Impact:** High-value customers concentrated in unstable contract segments  
-- **Key Insight:** Support interactions are the strongest predictor of churn (Feature Importance: 0.47)  
-- **Action Plan:** Support RCA, contract migration strategy, predictive churn alerts  
+- **Business Impact:** High-value customers concentrated in unstable contract segments.  
+- **Key Insight:** Support interactions are the strongest predictor of churn (Feature Importance: 0.47). 
+- **Action Plan:** Support RCA, contract migration strategy, predictive churn alerts.  
 
 **Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics  
 
