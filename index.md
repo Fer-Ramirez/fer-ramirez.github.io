@@ -31,7 +31,9 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 [Explore Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
 
 <img src="images/feature_importance.png" alt="Feature Importance — Customer Churn" width="700"> 
-*Support interactions are the strongest predictor of churn, driving nearly 50% of model importance.* 
+<p style="margin-top: 8px; font-style: italic;">
+Support interactions are the strongest predictor of churn, driving nearly 50% of model importance.
+</p>
 ---
 
 ### 💊 [PREVIEW] Pharma Supply Chain: Lead-Time Optimization
