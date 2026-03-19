@@ -5,7 +5,15 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
 **Contact:** <a href="https://www.linkedin.com/in/TU_PERFIL">LinkedIn</a> | <a href="https://github.com/Fer-Ramirez">GitHub</a> | fer.ramirezm4@gmail.com
 
-Analytical professional with a PhD in Biomedical Sciences and experience in pharma and client-facing roles. Focused on translating operational and customer data into revenue-driven decisions.
+## About Me
+
+I am a BI & Operations Analyst with a PhD in Biomedical Sciences and experience in the pharmaceutical industry.
+
+I specialize in translating complex operational and customer data into actionable business insights. In my recent work, I identified over $162M in revenue exposure by uncovering key drivers of customer churn using predictive analytics.
+
+My approach combines strong technical foundations in SQL, Python, and machine learning with a business-focused mindset centered on revenue, efficiency, and decision-making. While my background is in Pharma, my work is applicable to any data-driven environment where understanding customer behavior and operational performance is critical.
+
+I am seeking opportunities to contribute to BI and analytics teams where data can directly inform strategy and business impact.
 
 ---
 
