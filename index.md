@@ -4,8 +4,6 @@ theme: jekyll-theme-cayman
 title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
 
-# BI & Operations Analytics | Revenue-Focused Decision Making
-
 Analytical leader with a PhD in Biomedical Sciences and experience as an Account Director in the Pharma sector. I specialize in transforming operational data into revenue-driving strategies.
 
 ---
