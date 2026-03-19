@@ -59,10 +59,45 @@ In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption
 
 ## Technical Toolkit
 
-- **Data & Modeling:** Python (Pandas, Scikit-learn), SQL (DuckDB, PostgreSQL)  
-- **Analytics:** Revenue Analysis, Churn Modeling, KPI Design  
-- **Visualization:** Power BI, Tableau, Seaborn  
-- **Domain:** Pharma Operations, Customer Analytics  
+<div style="text-align:center; margin-top:20px;">
+  <strong>Data & Modeling</strong>
+</div>
+
+<div style="text-align:center; margin-top:8px;">
+  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">PYTHON</span>
+  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">PANDAS</span>
+  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">SCIKIT-LEARN</span>
+  <span style="background:#2d6a4f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">SQL</span>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <strong>Analytics</strong>
+</div>
+
+<div style="text-align:center; margin-top:8px;">
+  <span style="background:#40916c; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">REVENUE ANALYSIS</span>
+  <span style="background:#40916c; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">CHURN MODELING</span>
+  <span style="background:#40916c; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">KPI DESIGN</span>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <strong>Visualization</strong>
+</div>
+
+<div style="text-align:center; margin-top:8px;">
+  <span style="background:#52796f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">POWER BI</span>
+  <span style="background:#52796f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">TABLEAU</span>
+  <span style="background:#52796f; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">SEABORN</span>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <strong>Domain</strong>
+</div>
+
+<div style="text-align:center; margin-top:8px;">
+  <span style="background:#344e41; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">PHARMA OPERATIONS</span>
+  <span style="background:#344e41; color:white; padding:5px 10px; margin:4px; display:inline-block; font-size:11px;">CUSTOMER ANALYTICS</span>
+</div>
 
 ---
 
