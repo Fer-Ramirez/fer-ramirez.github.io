@@ -14,8 +14,6 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 
 **Identified $162M in revenue risk and uncovered operational drivers of customer churn using predictive analytics.**
 
-Translating complex data into actionable insights across customer behavior, operations, and revenue performance.
-
 ---
 
 ## Featured Case Studies
