@@ -29,7 +29,7 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 
 **Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics  
 
-[Explore Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Executive Summary](TU_LINK)
+[Explore Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
 
 ---
 
