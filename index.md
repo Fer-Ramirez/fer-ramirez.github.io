@@ -3,6 +3,7 @@ layout: default
 theme: jekyll-theme-cayman
 title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/Fer-Ramirez) | ✉️ fer.ramirezm4@gmail.com
 
 Analytical leader with a PhD in Biomedical Sciences and experience as an Account Director in the Pharma sector. I specialize in transforming operational data into revenue-driving strategies.
 
@@ -46,3 +47,11 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 - **Analytics:** Revenue Analysis, Churn Modeling, KPI Design  
 - **Visualization:** Power BI, Tableau, Seaborn  
 - **Domain:** Pharma Operations, Customer Analytics  
+
+---
+
+## 📫 Open to Opportunities
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
+- [GitHub](https://github.com/Fer-Ramirez)  
+- ✉️ fer.ramirezm4@gmail.com
