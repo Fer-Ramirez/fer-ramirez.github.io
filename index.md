@@ -5,7 +5,7 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
 **Contact:** <a href="https://www.linkedin.com/in/TU_PERFIL">LinkedIn</a> | <a href="https://github.com/Fer-Ramirez">GitHub</a> | fer.ramirezm4@gmail.com
 
-Analytical leader with a PhD in Biomedical Sciences and experience as an Account Director in the Pharma sector. I specialize in transforming operational data into revenue-driving strategies.
+Analytical professional with a PhD in Biomedical Sciences and experience in pharma and client-facing roles. Focused on translating operational and customer data into revenue-driven decisions.
 
 ---
 
@@ -28,7 +28,7 @@ Analytical leader with a PhD in Biomedical Sciences and experience as an Account
 
 **Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics  
 
-[Explore Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
+[Explore Full Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Download Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
 
 <img src="images/feature_importance.png" alt="Feature Importance — Customer Churn" width="700"> 
 <p style="margin-top: 12 px; font-style: italic;">
