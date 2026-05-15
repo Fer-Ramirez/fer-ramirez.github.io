@@ -24,17 +24,38 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 ## Featured Case Studies
 
 **Key Project**
+
+### 📊 RappiPlus — Business Performance Analysis
+
+**Full-funnel analysis of revenue, conversion, retention, and A/B testing across a Latin American e-commerce platform.**
+
+- **Business Impact:** Identified a single payment friction point costing `13.3%` of ready-to-buy users — with an estimated `~$120K` revenue impact per cohort.
+- **Key Insight:** All three channels deliver identical ROAS (`3.49x`–`3.73x`) and funnel behavior — paid spend efficiency is confirmed, but incrementality is not.
+- **Action Plan:** Payment UX fix, incrementality test, purchase-level cohort instrumentation.
+
+**Tech:** Python, SQL (pandasql), Tableau Public, Statistical Testing (Z-test)
+
+| [Explore Full Analysis](https://github.com/Fer-Ramirez/rappiplus-business-performance-analysis) | [View Interactive Dashboard](https://public.tableau.com/views/RappiPlusBusinessPerformanceAnalysis/Historia1) |
+| --- | --- |
+
+![RappiPlus Dashboard Overview](https://fer-ramirez.github.io/images/dashboard-rappiplus.png)
+
+*From Revenue to Retention: a 3-page interactive dashboard built for executive stakeholders.*
+
+---
+
 ### 📊 Strategic Retention Audit: Revenue Risk & Operational Levers
 
 **Identified $162M in revenue exposure and uncovered operational friction as the primary churn driver.**
 
-- **Business Impact:** High-value customers concentrated in unstable contract segments.  
-- **Key Insight:** Support interactions are the strongest predictor of churn (Feature Importance: 0.47). 
-- **Action Plan:** Support RCA, contract migration strategy, predictive churn alerts.  
+- **Business Impact:** High-value customers concentrated in unstable contract segments.
+- **Key Insight:** Support interactions are the strongest predictor of churn (Feature Importance: 0.47).
+- **Action Plan:** Support RCA, contract migration strategy, predictive churn alerts.
 
-**Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics  
+**Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics
 
-[Explore Full Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Download Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
+| [Explore Full Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Download Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf) |
+| --- | --- |
 
 <img src="images/feature_importance.png" alt="Feature Importance — Customer Churn" width="700"> 
 <p style="margin-top: 12 px; font-style: italic;">
