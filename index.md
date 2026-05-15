@@ -35,8 +35,7 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 
 **Tech:** Python, SQL (pandasql), Tableau Public, Statistical Testing (Z-test)
 
-| [Explore Full Analysis](https://github.com/Fer-Ramirez/rappiplus-business-performance-analysis) | [View Interactive Dashboard](https://public.tableau.com/views/RappiPlusBusinessPerformanceAnalysis/Historia1) |
-| --- | --- |
+[Explore Full Analysis](https://github.com/Fer-Ramirez/rappiplus-business-performance-analysis) | [View Interactive Dashboard](https://public.tableau.com/views/RappiPlusBusinessPerformanceAnalysis/Historia1)
 
 ![RappiPlus Dashboard Overview](https://fer-ramirez.github.io/images/dashboard-rappiplus.png)
 
@@ -54,8 +53,7 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 
 **Tech:** Python (Scikit-learn), SQL (DuckDB), Revenue Analytics
 
-| [Explore Full Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Download Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf) |
-| --- | --- |
+[Explore Full Analysis](https://github.com/Fer-Ramirez/customer-churn-operations-analytics) | [Download Executive Summary](https://raw.githubusercontent.com/Fer-Ramirez/customer-churn-operations-analytics/main/Presentation/churn_analysis_slides.pdf)
 
 <img src="images/feature_importance.png" alt="Feature Importance — Customer Churn" width="700"> 
 <p style="margin-top: 12 px; font-style: italic;">
