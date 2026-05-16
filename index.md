@@ -3,7 +3,7 @@ layout: default
 theme: jekyll-theme-cayman
 title: María Fernanda Ramírez, PhD | BI Portfolio
 ---
-**Contact:** <a href="https://www.linkedin.com/in/TU_PERFIL">LinkedIn</a> | <a href="https://github.com/Fer-Ramirez">GitHub</a> | fer.ramirezm4@gmail.com
+**Contact:** <a href="www.linkedin.com/in/mariafernandaramirez-analytics">LinkedIn</a> | <a href="https://github.com/Fer-Ramirez">GitHub</a> | fer.ramirezm4@gmail.com
 
 ## About Me
 
