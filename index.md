@@ -17,7 +17,7 @@ title: María Fernanda Ramírez, PhD | BI Portfolio
 
 # Driving Revenue & Retention Through Data
 
-**Quantified $132M in revenue risk and uncovered operational drivers of customer churn using predictive analytics.**
+**Quantified $135M in revenue risk and uncovered operational drivers of customer churn using predictive analytics.**
 
 ---
 
