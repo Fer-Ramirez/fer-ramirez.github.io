@@ -267,7 +267,7 @@ In the high-stakes ARV market, a 10-day delay triggers a "Treatment Interruption
 * **Simulation:** "What-If" engine for 2026 freight inflation and ROI of route optimization.
 * **PhD Edge:** Modeling the Clinical-Commercial impact of Treatment Interruption.
 
-*Project Status: Phase 1 (Data Schema & SQL Diagnostic) in progress.*
+*Project Status: Phases 1–4 complete (SQL diagnostic, shipment risk scoring, vendor/country/route risk rankings) · Next: Phase 5 — patient-switch simulation & ROI modeling.*
   
 ---
 
